@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+See https://github.com/bjarke-xyz/ for other projects i'm working on.
+
 <!--
 **bjarkt/bjarkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
